@@ -3,7 +3,7 @@
 	<groupId>org.hisrc.dbeac</groupId>
 	<artifactId>dbeac-project</artifactId>
 	<packaging>pom</packaging>
-	<version>1.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>Java Client for DB S&amp;S Elevators and Escalators API - Project</name>
 	<parent>
 		<groupId>org.sonatype.oss</groupId>
