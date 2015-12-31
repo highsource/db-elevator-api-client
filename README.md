@@ -1,6 +1,6 @@
 # Java Client for DB S&S Elevators and Escalators API
 
-This projects provides a Java Client for the Escalators and Elevators API of the DB Station&Service AG.
+This projects provides a Java Client for the Escalators and Elevators API of the DB Station&Service AG, codenamed **dbeac**.
 
 The API is published in the frame of [Aufzugs-API Contest](https://www.mindboxberlin.com/index.php/contest.html).
 
@@ -10,7 +10,21 @@ The original API definition file can be found here:
 
 ## Usage
 
+### Adding the client to your project
 
+#### Maven
+
+Add the following dependency to your project:
+
+```xml
+<dependency>
+	<groupId>org.hisrc.dbeac</groupId>
+	<artifactId>dbeac-client</artifactId>
+	<version>...</version>
+</dependency>
+```
+
+### Provided operations
 
 #### List all facilities
 
