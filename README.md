@@ -54,7 +54,7 @@ Facility facility = api.getFacilityByEquipmentNumber(10110110L);
 
 API invocation:
 
-`[https://adam.noncd.db.de/api/v1.0/stations/3925](https://adam.noncd.db.de/api/v1.0/stations/3925)`
+[`https://adam.noncd.db.de/api/v1.0/stations/3925`](https://adam.noncd.db.de/api/v1.0/stations/3925)
 
 Java code:
 
