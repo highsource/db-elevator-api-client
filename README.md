@@ -1,4 +1,4 @@
-# Java Client for DB S&S Elevators and Escalators API
+# Dbeac - Java Client for the Elevators and Escalators API
 
 This projects provides a Java Client for the Escalators and Elevators API of the DB Station&Service AG, codenamed **dbeac**.
 
