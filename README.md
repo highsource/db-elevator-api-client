@@ -1,6 +1,6 @@
 # Dbeac - Java Client for the Elevators and Escalators API
 
-This projects provides a Java Client for the Escalators and Elevators API of the DB Station&Service AG, codenamed **dbeac**.
+This projects provides a Java Client for the Escalators and Elevators API of the DB Station&Service AG, codenamed **Dbeac**.
 
 The API is published in the frame of [Aufzugs-API Contest](https://www.mindboxberlin.com/index.php/contest.html).
 
