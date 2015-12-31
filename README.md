@@ -16,7 +16,7 @@ The original API definition file can be found here:
 
 API invocation:
 
-`https://adam.noncd.db.de/api/v1.0/facilities`
+[`https://adam.noncd.db.de/api/v1.0/facilities`](https://adam.noncd.db.de/api/v1.0/facilities)
 
 Java code:
 
@@ -28,7 +28,7 @@ List<Facility> allFacilities = api.findFacilities(null, null);
 
 API invocation:
 
-`https://adam.noncd.db.de/api/v1.0/facilities?type=ELEVATOR&state=ACTIVE`
+[`https://adam.noncd.db.de/api/v1.0/facilities?type=ELEVATOR&state=ACTIVE`](https://adam.noncd.db.de/api/v1.0/facilities?type=ELEVATOR&state=ACTIVE)
 
 Java code:
 
@@ -42,7 +42,7 @@ List<Facility> findFacilities = api.findFacilities(
 
 API invocation:
 
-`https://adam.noncd.db.de/api/v1.0/facilities/10110110`
+[`https://adam.noncd.db.de/api/v1.0/facilities/10110110`](https://adam.noncd.db.de/api/v1.0/facilities/10110110)
 
 Java code:
 
