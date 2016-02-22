@@ -32,7 +32,7 @@ public class DefaultApiTest {
 	}
 
 	@Test
-	public void getsFacilityByEquipmentNumber() throws ApiException {
+	public void getsFacilityByEquipmentnumber() throws ApiException {
 		final DefaultApi api = new DefaultApi();
 		final Facility facility = api.getFacilityByEquipmentNumber(10110110L);
 		Assert.assertNotNull("Facility could not be found.", facility);

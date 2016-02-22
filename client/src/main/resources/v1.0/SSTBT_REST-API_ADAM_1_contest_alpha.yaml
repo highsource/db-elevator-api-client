@@ -13,7 +13,7 @@ info:
 host: adam.noncd.db.de
 basePath: /api/v1.0
 schemes:
-  - https
+  - http
 consumes:
   - application/json
 produces:
